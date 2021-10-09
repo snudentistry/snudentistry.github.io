@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+---
+layout: default
+description: Seoul National University School of Dentistry
+---
 
-You can use the [editor on GitHub](https://github.com/snudentistry/snudentistry.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<div class="googleCalendar">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Asia%2FSeoul&src=ZGVudGlzdHJ5QHNudS5hYy5rcg&src=c2NxZWQ5MTU1ZmprZHFub2Jsczc0M2VpcGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA&color=%23D50000" style="border-width:0" height="400" frameborder="0" scrolling="no"></iframe>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/snudentistry/snudentistry.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</div>
+<P>
+이 <a href="https://calendar.google.com/calendar/u/0?cid=ZGVudGlzdHJ5QHNudS5hYy5rcg">주소</a>를 등록하여 일정을 편하게 구독할 수 있습니다(<a href="https://support.google.com/calendar/answer/37100?hl=ko&co=GENIE.Platform%3DAndroid&oco=0">방법</a>).
+</P>
